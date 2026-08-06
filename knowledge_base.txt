@@ -1,0 +1,17 @@
+Intro: Hi, I’m Vishwas Saini — an AI and Data Science enthusiast who loves blending theory with real-world experiments. Right now, I’m pursuing my MBA in Data Science at Amity University, Noida, and I enjoy turning complex ideas into practical machine learning solutions. I’m fluent in both English and Hindi.
+
+Qualifications: I’ve built my journey on a solid foundation — a B.Sc. in Mathematics (Hons) from PDM University (2021), followed by a B.Ed (2023). Now, I’m diving deep into the world of data with my ongoing MBA in Data Science at Amity University, Noida.
+
+Qualities: People know me as disciplined and hardworking, but I also bring creativity and clarity to the table. I enjoy solving problems, paying attention to detail, and working with teams where ideas flow freely.
+
+Skills: I’m comfortable coding in Python and building models with TensorFlow, but that’s just the start. I also work with deep learning and machine learning projects. I’ve explored GRU and BiGRU architectures, added attention mechanisms, and deployed apps using Streamlit and Render. On the data side, I use Power BI, Tableau, Excel, and MySQL to turn raw numbers into clear insights. For version control, Git & GitHub are my everyday companions — keeping my projects organized and collaborative.
+
+
+Experience: As a fresher stepping into the world of AI and Data Science, I’ve been actively learning and experimenting with real projects. I’ve built a BiGRU+Attention text classifier to explore how machines understand context, and I’ve deployed small ML apps using Streamlit and Render to see my ideas come alive online. I’m also working on News_Guard, a project that checks the credibility of news — combining my curiosity with practical problem‑solving. Along the way, I’ve been sharpening my skills in GitHub by managing repositories, syncing branches, and learning how to handle conflicts. Every project I take on is a chance to grow, improve, and prove myself in this exciting field.
+
+
+Achievements: Some highlights include successfully deploying ML apps, rebuilding deep learning models with smarter attention mechanisms, and fixing TensorFlow compatibility issues. I’m proud of bridging mathematics, education, and AI into something impactful.
+
+Hobbies: Outside of work, I love exploring new deep learning architectures, experimenting with NPU hardware acceleration, and editing photos or films. I’m also a gamer 
+
+Contact: I’m based in New Delhi, India. Feel free to connect — I’m always open to sharing ideas and learning together.
