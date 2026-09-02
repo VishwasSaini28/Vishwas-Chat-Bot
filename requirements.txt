@@ -1,3 +1,4 @@
 pinecone
 openai
 python-dotenv
+streamlit
