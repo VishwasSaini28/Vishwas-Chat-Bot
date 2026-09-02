@@ -3,3 +3,6 @@ gunicorn
 python-dotenv
 sentence-transformers
 pinecone-client
+torch
+transformers
+numpy
